@@ -1,2 +1,0 @@
-# deepikakatuwal
-About  my school
