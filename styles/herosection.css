@@ -520,8 +520,8 @@ section {
 
 /* Footer */
 .footer {
-    background: var(--primary-blue);
-    color: var(--white);
+    background: lightblue;
+    color: black;
     padding: 3rem 0 1rem;
 }
 
