@@ -202,7 +202,7 @@ section {
 
 .grid-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px gray);
+    box-shadow: 0 10px 25px gray;
 }
 
 .grid-item i {
@@ -257,6 +257,7 @@ section {
     align-items: center;
     justify-content: center;
     margin-bottom: 1.5rem;
+    background-color: #81b1ec;
 }
 
 .card-icon i {
@@ -506,7 +507,7 @@ section {
     font-family: inherit;
 }
 
-.form-group input:focus,
+
 .form-group textarea:focus {
     outline: none;
     border-color: var(--secondary-blue);
