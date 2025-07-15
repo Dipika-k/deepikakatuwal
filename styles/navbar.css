@@ -2,7 +2,7 @@
     position: relative;
     top: 0;
     width: 100%;
-    background: rgb(32, 32, 216);
+    background: rgb(96, 181, 255);
     backdrop-filter: blur(10px);
     z-index: 1000;
     transition: all 0.3s ease;
