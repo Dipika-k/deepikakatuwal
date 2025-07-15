@@ -76,9 +76,9 @@ overflow: hidden;
 .floating-card i{
     font-size: 48px;
     color: lightblue;
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
 }
 .floating-card h3{
-    font-size: 24px;
-    margin-bottom: 8px;
+    font-size: 1.5rem;
+    margin: bottom 0.5rem;
 }
